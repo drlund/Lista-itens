@@ -67,7 +67,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-### Tutorial obtido no site *medium.com* em artigo de __Pedro Daltoé__:
+### Tutorial obtido no site *medium.com* em artigo de *Pedro Daltoé*:
 https://medium.com/@daltoe/criar-editar-e-deletar-item-da-lista-utilizando-react-js-f4729295f0de
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
